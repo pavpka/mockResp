@@ -3,6 +3,9 @@
     { "name": "name1", "author": "author1" },
     { "name": "name2", "author": "author2" }
   ],
+  "coursesError": [
+    { "error": "no courses", "code": "123" }
+  ],
   "profile": {
     "name": "nameHere",
     "login": "test"
